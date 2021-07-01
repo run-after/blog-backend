@@ -1,6 +1,9 @@
 {
   "name": "blog",
   "version": "0.0.0",
+  "engines": {
+    "node": "12.8.0"
+  },
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
@@ -9,6 +12,7 @@
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
+    "compression": "^1.7.4",
     "cookie-parser": "~1.4.4",
     "cors": "^2.8.5",
     "debug": "~2.6.9",
@@ -16,6 +20,7 @@
     "express": "~4.16.1",
     "express-session": "^1.17.2",
     "express-validator": "^6.11.1",
+    "helmet": "^4.6.0",
     "http-errors": "~1.6.3",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.12.13",
