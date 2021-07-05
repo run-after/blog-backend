@@ -1,6 +1,6 @@
 # The Blog
 
-<img src='https://github.com/run-after/blog-backend/blob/main/src/media/screenshot.png' alt='Blog' width='100%' />
+<img src='https://github.com/run-after/blog-backend/blob/main/public/images/screenshot.png' alt='Blog' width='100%' />
 
 From The Odin Project (https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs/lessons/blog-api)
 
